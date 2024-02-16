@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BD5F8CF12B7BEBB80050E914 /* Angular_GradientApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F8CF02B7BEBB80050E914 /* Angular_GradientApp.swift */; };
-		BD5F8CF32B7BEBB80050E914 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F8CF22B7BEBB80050E914 /* ContentView.swift */; };
+		BD5F8CF32B7BEBB80050E914 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F8CF22B7BEBB80050E914 /* HomeView.swift */; };
 		BD5F8CF52B7BEBB90050E914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5F8CF42B7BEBB90050E914 /* Assets.xcassets */; };
 		BD5F8CF82B7BEBB90050E914 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5F8CF72B7BEBB90050E914 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		BD5F8CED2B7BEBB80050E914 /* Angular Gradient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Angular Gradient.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5F8CF02B7BEBB80050E914 /* Angular_GradientApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angular_GradientApp.swift; sourceTree = "<group>"; };
-		BD5F8CF22B7BEBB80050E914 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BD5F8CF22B7BEBB80050E914 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		BD5F8CF42B7BEBB90050E914 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD5F8CF72B7BEBB90050E914 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				BD5F8CF02B7BEBB80050E914 /* Angular_GradientApp.swift */,
-				BD5F8CF22B7BEBB80050E914 /* ContentView.swift */,
+				BD5F8CF22B7BEBB80050E914 /* HomeView.swift */,
 				BD5F8CF42B7BEBB90050E914 /* Assets.xcassets */,
 				BD5F8CF62B7BEBB90050E914 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD5F8CF32B7BEBB80050E914 /* ContentView.swift in Sources */,
+				BD5F8CF32B7BEBB80050E914 /* HomeView.swift in Sources */,
 				BD5F8CF12B7BEBB80050E914 /* Angular_GradientApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

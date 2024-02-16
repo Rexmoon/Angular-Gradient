@@ -11,7 +11,7 @@ import SwiftUI
 struct Angular_GradientApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
